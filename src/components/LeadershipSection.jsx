@@ -6,7 +6,7 @@ const LeadershipSection = () => {
     {
       name: 'Sarah Johnson',
       position: 'Chief Executive Officer',
-      experience: '15+ Years',
+      experience: '5+ Years',
       expertise: 'Global Supply Chain Strategy',
       image: 'https://images.unsplash.com/photo-1494790108755-2616c9c36f4e?w=400&h=400&fit=crop&crop=face',
       bio: 'Sarah leads our global operations with extensive experience in international trade and sustainable sourcing practices.',
@@ -15,7 +15,7 @@ const LeadershipSection = () => {
     {
       name: 'Michael Chen',
       position: 'Chief Operating Officer',
-      experience: '12+ Years',
+      experience: '6+ Years',
       expertise: 'Operations & Quality Management',
       image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face',
       bio: 'Michael ensures operational excellence across all our manufacturing partners with rigorous quality standards.',
@@ -24,7 +24,7 @@ const LeadershipSection = () => {
     {
       name: 'Emily Rodriguez',
       position: 'Head of Sustainability',
-      experience: '10+ Years',
+      experience: '5+ Years',
       expertise: 'Sustainable Manufacturing',
       image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop&crop=face',
       bio: 'Emily drives our commitment to ethical and environmentally responsible manufacturing practices.',
