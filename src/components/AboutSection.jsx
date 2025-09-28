@@ -10,9 +10,9 @@ const AboutSection = () => {
   ];
 
   const stats = [
-    { number: '500+', label: 'Global Partners' },
-    { number: '15+', label: 'Years Experience' },
-    { number: '50+', label: 'Countries Served' },
+    { number: '6+', label: 'Global Partners' },
+    { number: '2+', label: 'Years Experience' },
+    { number: '5+', label: 'Countries Served' },
     { number: '98%', label: 'Client Satisfaction' }
   ];
 

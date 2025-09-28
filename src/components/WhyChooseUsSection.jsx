@@ -51,8 +51,8 @@ const WhyChooseUsSection = () => {
   ];
 
   const stats = [
-    { icon: Users, number: '500+', label: 'Satisfied Clients', color: 'text-blue-600' },
-    { icon: Globe, number: '50+', label: 'Countries Served', color: 'text-green-600' },
+    { icon: Users, number: '6+', label: 'Satisfied Clients', color: 'text-blue-600' },
+    { icon: Globe, number: '5+', label: 'Countries Served', color: 'text-green-600' },
     { icon: Award, number: '98%', label: 'Quality Score', color: 'text-purple-600' },
     { icon: Truck, number: '99.8%', label: 'On-time Delivery', color: 'text-orange-600' }
   ];
