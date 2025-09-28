@@ -25,7 +25,7 @@ const HeroSection = () => {
             <div className="inline-flex items-center space-x-2 bg-white/10 backdrop-blur-sm rounded-full px-4 py-2 mb-6 border border-white/20">
               <Star className="text-yellow-400 fill-current" size={16} />
               <span className="text-white text-sm font-medium">
-                Trusted by 500+ Global Brands
+                Trusted by 5+ Global Brands
               </span>
             </div>
 
